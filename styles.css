@@ -1,0 +1,46 @@
+/* Stylesheet untuk ketiga halaman HTML: index.html, about.html, dan contact.html */
+
+/* Aturan untuk tag body: memodifikasi keluarga font dan ukuran font */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Aturan untuk tag header: memodifikasi warna latar belakang */
+header {
+  background-color: #f0f8ff; /* Light blue untuk kontras yang baik */
+}
+
+/* Aturan untuk tag nav: mengubah warna latar belakang */
+nav {
+  background-color: #e6e6fa; /* Lavender untuk kontras yang baik */
+}
+
+/* Aturan untuk tag main: mengubah warna latar belakang dan ukuran font */
+main {
+  background-color: #fffacd; /* Lemon chiffon untuk kontras yang baik */
+  font-size: 18px;
+}
+
+/* Aturan untuk tag footer: mengubah warna latar belakang */
+footer {
+  background-color: #d3d3d3; /* Light gray untuk kontras yang baik */
+}
+
+/* Aturan untuk tag li: memodifikasi properti tampilan dan lebar */
+li {
+  display: inline-block;
+  width: 150px; /* Lebar tetap untuk konsistensi */
+}
+
+/* Aturan untuk tag h1: memodifikasi perataan teks, jenis huruf, dan warna */
+h1 {
+  text-align: center;
+  font-family: Georgia, serif;
+  color: #2e8b57; /* Sea green untuk kontras yang baik pada latar belakang */
+}
+
+/* Aturan untuk tag p: memodifikasi properti tinggi baris */
+p {
+  line-height: 1.6;
+}
